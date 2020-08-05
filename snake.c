@@ -1,11 +1,4 @@
-/*	example code for cc65, for NES
- *  move some sprites with the controllers
- *  -also sprite vs sprite collisions
- *	using neslib
- *	Doug Fraker 2018
- */	
- 
- 
+
  
 #include "LIB/neslib.h"
 #include "LIB/nesdoug.h"
